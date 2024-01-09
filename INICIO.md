@@ -155,7 +155,7 @@ body,td,th {
   <p>Pante&oacute;n Rococ&oacute; es una banda mexicana de fusi&oacute;n rock, ska y ritmos de M&eacute;xico. Son originarios de la Ciudad de M&eacute;xico.&nbsp;<strong>La banda se form&oacute; en 1995 y adoptaron su nombre de la obra teatral del mexicano Hugo Arg&uuml;elles <a href="https://books.google.com.mx/books/about/El_cocodrilo_solitario_del_pante%C3%B3n_roco.html?hl=es&amp;id=svobAQAAIAAJ&amp;redir_esc=y">El cocodrilo solitario del pante&oacute;n rococ&oacute;</a> escrita en 1981</strong>.</p>
   
   <div id="Layer11">
-<iframe width="600" height="350" src="https://www.youtube.com/embed/7awKoTNIKjU" title="Panteón Rococó - Documental - XX Años (En Vivo) ft. Denise Gutiérrez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </div>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/7awKoTNIKjU" title="PanteÃ³n RococÃ³ - Documental - XX AÃ±os (En Vivo) ft. Denise GutiÃ©rrez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </div>
   <div id="Layer8"><img src="../img/Flor.png" width="500" height="500" /></div>
   <div id="Layer9"><img src="../img/Flor2.png" width="500" height="500" /></div>
   <div id="Layer10"><img src="../img/Flor.png" width="500" height="500" /></div>
@@ -174,7 +174,7 @@ body,td,th {
 
 <div class="Estilo5" id="Layer5">
   <p>INTEGRANTES DE LA BANDA </p>
-  <p><span class="Estilo7"><a href="https://www.instagram.com/shenkaofficial/?hl=es-la">Dr Shenka</a>, <a href="https://www.instagram.com/dongorri/">Gorri Ramnone</a>, <a href="https://www.instagram.com/monelo/?hl=es-la">Monelo</a>, <a href="https://www.instagram.com/dariorococo/?hl=es-la">Darío</a>, <a href="https://www.instagram.com/trombonrococo/?hl=es-la">El Paquito Barajas</a>, <a href="https://www.instagram.com/missaelrococo/">Missael</a>, <a href="https://www.instagram.com/tanis_rococo/?hl=es-la">Tanis</a> y<a href="https://www.instagram.com/tecladorococo/"> Felipe </a></span></p>
+  <p><span class="Estilo7"><a href="https://www.instagram.com/shenkaofficial/?hl=es-la">Dr Shenka</a>, <a href="https://www.instagram.com/dongorri/">Gorri Ramnone</a>, <a href="https://www.instagram.com/monelo/?hl=es-la">Monelo</a>, <a href="https://www.instagram.com/dariorococo/?hl=es-la">DarÃ­o</a>, <a href="https://www.instagram.com/trombonrococo/?hl=es-la">El Paquito Barajas</a>, <a href="https://www.instagram.com/missaelrococo/">Missael</a>, <a href="https://www.instagram.com/tanis_rococo/?hl=es-la">Tanis</a> y<a href="https://www.instagram.com/tecladorococo/"> Felipe </a></span></p>
   <p><a href="REDES.html"><img src="../img/losrococo.jpeg" width="796" height="419" border="0" /></a></p>
 </div>
 
