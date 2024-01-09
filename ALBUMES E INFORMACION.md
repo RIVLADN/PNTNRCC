@@ -130,46 +130,46 @@ body {
 
 
 <div id="Layer3"><a href="https://open.spotify.com/intl-es/album/4H2Qf4zgMbm6np5JU3z9Qd?si=eiIU9XLDR4SsRT6BhiLCDA&amp;nd=1&amp;dlsi=4dcc83cc792f4577"><img src="../img/izquierda-de-la-tierra.jpg" width="300" height="300" border="0" /></a>
-  <p class="Estilo1">A la izquierda de la Tierra es el primer ·lbum de estudio de la banda mexicana PanteÛn RococÛ y fue lanzado de forma independiente en 1999.</p>
+  <p class="Estilo1">A la izquierda de la Tierra es el primer √°lbum de estudio de la banda mexicana Pante√≥n Rococ√≥ y fue lanzado de forma independiente en 1999.</p>
   <p class="Estilo2">Clic a la imagen para escucharlo </p>
 </div> 
 
 <div id="Layer4"><a href="https://open.spotify.com/intl-es/album/5Hr76OES2ZCR3rwONS7nlw?si=ZKhGinhHQo2nm1YT1tj2_Q&amp;nd=1&amp;dlsi=dfa8824b4af64d95"><img src="../img/companerosmusicales-1024x1024.jpeg" width="300" height="300" border="0" /></a>
-<p class="Estilo1">CompaÒeros musicales es el segundo ·lbum de estudio de la banda mexicana de ska PanteÛn RococÛ y fue lanzado al mercado por los sellos discogr·ficos BMG/RCA Records en formato de disco compacto en 2002.</p>
+<p class="Estilo1">Compa√±eros musicales es el segundo √°lbum de estudio de la banda mexicana de ska Pante√≥n Rococ√≥ y fue lanzado al mercado por los sellos discogr√°ficos BMG/RCA Records en formato de disco compacto en 2002.</p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer5"><a href="https://open.spotify.com/intl-es/album/6kDnUJJlq5qQmUwJqPKYtS?si=bw3s8E4OSzuUA3kc7gV9gg&amp;nd=1&amp;dlsi=3e3efe3211804949"><img src="../img/3VECES31024x1024.jpeg" width="300" height="300" border="0" /></a>
-<p class="Estilo1">Tres veces tres es el tercer ·lbum de estudio de la banda mexicana de rock en espaÒol y ska PanteÛn RococÛ y fue publicado en el aÒo de 2004 por la discogr·fica Sony BMG en formato de disco compacto.</p>
+<p class="Estilo1">Tres veces tres es el tercer √°lbum de estudio de la banda mexicana de rock en espa√±ol y ska Pante√≥n Rococ√≥ y fue publicado en el a√±o de 2004 por la discogr√°fica Sony BMG en formato de disco compacto.</p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer6"><a href="https://open.spotify.com/intl-es/album/0HgimXrbh89mAHF3nLGsLP?si=1I2h8AxJSyuOxb4jMERnJg&amp;nd=1&amp;dlsi=7fa454709f964e09"><img src="../img/unpanteonmuyvivo.jpeg" width="300" height="300" border="0" /></a>
-<p class="Estilo1">10 aÒos: Un panteÛn muy vivo es un ·lbum en vivo de la banda mexicana de rock y ska PanteÛn RococÛ y fue lanzado al mercado en 2006 por la disquera Sony BMG.</p>
+<p class="Estilo1">10 a√±os: Un pante√≥n muy vivo es un √°lbum en vivo de la banda mexicana de rock y ska Pante√≥n Rococ√≥ y fue lanzado al mercado en 2006 por la disquera Sony BMG.</p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer7"><a href="https://open.spotify.com/intl-es/album/1mTglsLyY3nJ3Qj7vPtbpg?si=EuGkE6xNSAi_E5Can2BMLQ&amp;nd=1&amp;dlsi=9a844f9448804494"><img src="../img/panteonrococo1200x630bb.jpg" width="300" height="300" border="0"/></a>
-<p class="Estilo1">PanteÛn RococÛ es el quinto ·lbum de estudio de la banda homÛnima mexicana de ska y rock en espaÒol, y fue lanzado al mercado en 2007 por el sello Sony BMG Music Entertainment.</p>
+<p class="Estilo1">Pante√≥n Rococ√≥ es el quinto √°lbum de estudio de la banda hom√≥nima mexicana de ska y rock en espa√±ol, y fue lanzado al mercado en 2007 por el sello Sony BMG Music Entertainment.</p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer8"><a href="https://open.spotify.com/intl-es/album/31M3drSiYALJMah8o3PGke?si=nFIKyTuqT-2coD47K7Gg9w&amp;nd=1&amp;dlsi=fa9d9d273aa44166"><img src="../img/ejercito-de-paz-1024x1024.jpeg" width="300" height="300" border="0" /></a>
-<p class="Estilo1">EjÈrcito de paz es el sexto ·lbum de estudio de la banda mexicana de ska y rock en espaÒol PanteÛn RococÛ y fue publicado por el sello discogr·fico La Real Independencia en 2010.</p>
+<p class="Estilo1">Ej√©rcito de paz es el sexto √°lbum de estudio de la banda mexicana de ska y rock en espa√±ol Pante√≥n Rococ√≥ y fue publicado por el sello discogr√°fico La Real Independencia en 2010.</p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer9"><a href="https://open.spotify.com/intl-es/album/04HBP9fEv4mvhtBV0DPrm6?si=lmOYoVKiS6-SHIkMHoMnBg&amp;nd=1&amp;dlsi=9aa2a93bb24f4ca3"><img src="../img/nicarnenipescado-1024x1024.jpeg" width="300" height="300" border="0" /></a>
-<p class="Estilo1">Ni carne ni pescado es un ·lbum tributo de la banda mexicana de ska y rock en espaÒol PanteÛn RococÛ y fue lanzado al mercado por la discogr·fica Sony BMG en octubre de 2012.</p>
+<p class="Estilo1">Ni carne ni pescado es un √°lbum tributo de la banda mexicana de ska y rock en espa√±ol Pante√≥n Rococ√≥ y fue lanzado al mercado por la discogr√°fica Sony BMG en octubre de 2012.</p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer10"><a href="https://open.spotify.com/intl-es/album/4YfBlW4L2iqbqq7masWr9V?si=dcfc005def2c43cc&amp;nd=1&amp;dlsi=81222c51a5c74b16"><img src="../img/XXanos.jpg" width="300" height="300" border="0" /></a>
-<p class="Estilo1">XX aÒos &laquo;leÌdo como veinte aÒosª es un ·lbum en vivo de la banda mexicana de ska y rock en espaÒol PanteÛn RococÛ y fue publicado en formato de disco compacto y DVD por la discogr·fica Sony BMG Music Entertainment en el aÒo de 2016.</p>
+<p class="Estilo1">XX a√±os &laquo;le√≠do como veinte a√±os¬ª es un √°lbum en vivo de la banda mexicana de ska y rock en espa√±ol Pante√≥n Rococ√≥ y fue publicado en formato de disco compacto y DVD por la discogr√°fica Sony BMG Music Entertainment en el a√±o de 2016.</p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer11"><a href="https://open.spotify.com/intl-es/track/1IeYD7s1s656dhU68VwS4e?si=e41068396fdf4832&amp;nd=1&amp;dlsi=94fc2052b4ff4784"><img src="../img/InfiernosDisco-1024x1024.jpg" width="300" height="300" border="0" /></a>
-<p class="Estilo1">ìInfiernosî es el octavo ·lbum de estudio en la historia de la banda, este material contiene un total de 11 canciones que dan una nada despreciable duraciÛn de poco m·s de 40 minutos con una dosis alta de ska. </p>
+<p class="Estilo1">‚ÄúInfiernos‚Äù es el octavo √°lbum de estudio en la historia de la banda, este material contiene un total de 11 canciones que dan una nada despreciable duraci√≥n de poco m√°s de 40 minutos con una dosis alta de ska. </p>
 <p class="Estilo2">Clic a la imagen para escucharlo </p></div>
 
 <div id="Layer12">
   <div align="center"><a href="https://open.spotify.com/intl-es/album/3lt8rmUiZvG6Lnt1Ejfd97?si=d2df8a034f184d42&amp;nd=1&amp;dlsi=d74beb9039d74046"><img src="../img/Ofrenda-low-1024x1024.jpg" width="300" height="300" border="0" /></a>
   </div>
-  <p class="Estilo1">ìLa tem·tica audiovisual de ìOFRENDAî naciÛ al escuchar las canciones de PanteÛn RococÛ, que en un principio son canciones de amor y re-imaginarlas dentro de un contexto de lucha socialÖ y fue como se creÛ el contenido de los videosî, expresÛ el director del video CristÛbal G Camarena. Unlimited Films y todo su equipo lograron plasmar el dolor y la lucha de personas que esperan el regreso de ausencias a causa de desapariciones forzosas, y donde la m˙sica e interpretaciÛn de los Panteones se fusiona para alzar la voz. </p>
+  <p class="Estilo1">‚ÄúLa tem√°tica audiovisual de ‚ÄúOFRENDA‚Äù naci√≥ al escuchar las canciones de Pante√≥n Rococ√≥, que en un principio son canciones de amor y re-imaginarlas dentro de un contexto de lucha social‚Ä¶ y fue como se cre√≥ el contenido de los videos‚Äù, expres√≥ el director del video Crist√≥bal G Camarena. Unlimited Films y todo su equipo lograron plasmar el dolor y la lucha de personas que esperan el regreso de ausencias a causa de desapariciones forzosas, y donde la m√∫sica e interpretaci√≥n de los Panteones se fusiona para alzar la voz. </p>
 <p align="center" class="Estilo2">Clic a la imagen para escucharlo. </p>
 </div>
 
